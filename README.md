@@ -10,7 +10,7 @@ En este repositorio, encontrarás el resultado de mi investigación detallada pa
 
 Te invito a explorar el proyecto en Google Colab para entender cómo utilicé SQL y técnicas de análisis de datos para resolver este intrigante caso. ¡Espero que encuentres interesante y educativo este viaje por el misterio de SQL City!
 
-### [¡Explora mi Proyecto en Google Colab!](https://colab.research.google.com/drive/1eEkJH--qZ2-seUBBddVqDLYB9AErfsLb#scrollTo=I_Tuh27GRWDa)
+### [¡Explora mi Proyecto en Google Colab!]([https://colab.research.google.com/drive/1eEkJH--qZ2-seUBBddVqDLYB9AErfsLb#scrollTo=I_Tuh27GRWDa](https://colab.research.google.com/drive/1eEkJH--qZ2-seUBBddVqDLYB9AErfsLb))
 
 ¡Gracias por tu interés y disfruta del viaje investigativo!
 
