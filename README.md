@@ -1,4 +1,4 @@
-# Bienvenidos al Proyecto del Misterio SQL City
+# Proyecto del Misterio SQL City
 
 ¡Hola a todos! Soy Wara Pacajes y quiero invitarte a explorar mi proyecto donde resolví el misterio del asesinato en SQL City. Utilicé Google Colab para analizar datos y resolver el caso, aplicando mis habilidades en SQL. 
 
